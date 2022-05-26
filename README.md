@@ -18,3 +18,4 @@ Human Detection
 
 Path Generation
 
+![out](https://user-images.githubusercontent.com/32956936/170418021-81295f2e-61d0-4e2b-bc5a-be6f8b38782f.jpg)
